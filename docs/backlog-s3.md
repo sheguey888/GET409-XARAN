@@ -22,17 +22,17 @@ Livrer un MVP testable : un apprenant peut parcourir le catalogue, suivre un mod
 
 ## Workstreams
 
-### 🧩 Dev UI (Aissatou)
+### 🧩 Dev UI 
 - US-01 Catalogue des modules
 - US-02 Lecteur de leçon mobile-first
 - US-07 Tableau de progression
 
-### 🤖 Prompt / IA (Aichatou)
+### 🤖 Prompt / IA 
 - US-03 Assistant vocal bilingue
 - US-04 Affichage transcription + confirmation
 - US-05 Pédagogie « indices d'abord »
 
-### 🧪 Produit & impact (Khadidiatou / Adama)
+### 🧪 Produit & impact 
 - US-06 Mini-évaluation sans IA
 - US-08 Formulaire de contact
 - Suivi des métriques (`metriques-succes.md`)
