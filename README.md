@@ -14,6 +14,7 @@ Beaucoup de jeunes et de professionnels sénégalais veulent monter en compéten
 | ------- | -------- |
 | cheikh  | gueye    |
 | Siakha  | Bakayoko |
+| Djitaïngué Charles-Frédéric  | Noudjalta |
 
 > À compléter avec les membres réels de l'équipe WA XARAÑ.
 
